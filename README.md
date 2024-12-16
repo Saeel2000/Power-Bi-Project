@@ -36,7 +36,7 @@ The main goals of this analysis include:
    - Revenue trends show peaks in 2018 with declines in 2020.  
 
 ### Visuals:
-![Sales Analysis](Intro.png)
+![Sales Analysis](RestranrantAnalysis.png)
 
 ## Cuisine Analysis   
 ### Key Insights:
