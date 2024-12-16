@@ -6,6 +6,8 @@ This Tableau project analyzes Zomato's sales and cuisine data to uncover insight
 1. Sales Analysis Dashboard  
 2. Cuisine Analysis Dashboard  
 
+### Visuals:
+![Sales Analysis](Intro.png)
 These dashboards provide key metrics to identify top-performing cities, user behaviors, and popular cuisines.
 
 ## Objectives
@@ -20,7 +22,7 @@ The main goals of this analysis include:
 - Data Source: Zomato Sales and Cuisine Dataset.  
 - Deployment Tools: GitHub for project sharing.  
 
-## Sales Analysis Dashboard  
+## Sales Analysis   
 ### Key Insights:
 - Revenue Metrics:  
    - Total Revenue: ₹987M  
@@ -34,7 +36,7 @@ The main goals of this analysis include:
    - Revenue trends show peaks in 2018 with declines in 2020.  
 
 ### Visuals:
-![Sales Analysis](Sales Analysis)
+![Sales Analysis](Intro.png)
 
 ## Cuisine Analysis Dashboard  
 ### Key Insights:
