@@ -53,8 +53,8 @@ The main goals of this analysis include:
 ![Cuisine Analysis](./Images/Screenshot_2024-12-17_001503.png)
 
 ## Project File
-The dashboards are available in the Tableau file:  
-- File Name: `Zomato_Sales_Cuisine.twbx`  
+The dashboards are available in the power bi file:  
+- File Name: "<iframe title="Zomato Data Analysis Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmM3ZWQ5M2QtMzM5YS00NTQ5LWE0MDgtNjM1ZmQ3ZDdhMjg5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>"
 
 ## Insights Summary
 - Cities like Tirupati and Bangalore lead revenue generation.  
