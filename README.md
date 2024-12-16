@@ -69,5 +69,5 @@ The dashboards are available in the power bi file:
 
 ## Author
 Saeel
-- [LinkedIn Profile](#)  
-- [GitHub Profile](#)
+- Email: saeelsalvi42@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saeel-salvi-69714b143/
