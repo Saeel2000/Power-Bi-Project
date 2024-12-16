@@ -60,6 +60,11 @@ The main goals of this analysis include:
 The dashboards are available in the power bi file:  
 - File Name: "<iframe title="Zomato Data Analysis Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmM3ZWQ5M2QtMzM5YS00NTQ5LWE0MDgtNjM1ZmQ3ZDdhMjg5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>"
 
+
+## Project File with another format
+The dashboards are available in the power bi file:  
+- File Name: <iframe title="Zomato Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzk1NDU3ODMtZmFmNC00YmE5LTk3YTUtN2RmNjAxMDYyODIyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Insights Summary
 - Cities like Tirupati and Bangalore lead revenue generation.  
 - Users aged 27–30 dominate Zomato's customer base.  
