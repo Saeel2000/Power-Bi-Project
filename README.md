@@ -36,7 +36,9 @@ The main goals of this analysis include:
    - Revenue trends show peaks in 2018 with declines in 2020.  
 
 ### Visuals:
-![Sales Analysis](RestranrantAnalysis.png)
+![Sales Analysis](Sales_Analysis.png)
+![Sales Analysis](Restaurant_Analysis.png)
+
 
 ## Cuisine Analysis   
 ### Key Insights:
@@ -52,7 +54,7 @@ The main goals of this analysis include:
    - Non-Veg Items: 27.13% (₹73M revenue).  
 
 ### Visuals:
-![Cuisine Analysis](Cuisine Analysis.png)
+![Cuisine Analysis](Cuisine_Analysis.png)
 
 ## Project File
 The dashboards are available in the power bi file:  
