@@ -38,7 +38,7 @@ The main goals of this analysis include:
 ### Visuals:
 ![Sales Analysis](Intro.png)
 
-## Cuisine Analysis Dashboard  
+## Cuisine Analysis   
 ### Key Insights:
 - Top Cuisines by Price:  
    - Highest Revenue: North Indian & Chinese cuisines (₹15M and ₹12M respectively).  
@@ -52,7 +52,7 @@ The main goals of this analysis include:
    - Non-Veg Items: 27.13% (₹73M revenue).  
 
 ### Visuals:
-![Cuisine Analysis](./Images/Screenshot_2024-12-17_001503.png)
+![Cuisine Analysis](Cuisine Analysis.png)
 
 ## Project File
 The dashboards are available in the power bi file:  
