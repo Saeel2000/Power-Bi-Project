@@ -1,5 +1,5 @@
 # Power-Bi-Project
-# Zomato Sales and Cuisine Analysis - Tableau Dashboard
+# Zomato Sales and Cuisine Analysis
 
 ## Overview
 This Tableau project analyzes Zomato's sales and cuisine data to uncover insights into revenue trends, user demographics, and cuisine preferences. The project consists of two interactive dashboards:  
